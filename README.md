@@ -1,16 +1,17 @@
-## Hi there 👋
+# Selam, Ben Emirhan! 👋
 
-<!--
-**dddddvb275-cpu/dddddvb275-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Muş'tan kendi çabalarıyla yazılım dünyasına adım atmış bir geliştirici adayıyım. 
 
-Here are some ideas to get you started:
+### 🚀 Hakkımda
+- 📱 Tüm projelerimi ve çalışmalarımı sadece **Xiaomi 12 Pro** cihazım üzerinden yürütüyorum.
+- 💡 Yapay zeka araçlarını bir öğretmen gibi kullanarak kodlamanın mantığını öğreniyorum.
+- 🛠 Şu an aktif olarak **HTML, CSS ve JavaScript** üzerine yoğunlaştım.
+- 🎯 Hedefim, imkansızlıkların engel olmadığını kanıtlayarak global teknoloji şirketlerinde yer almak.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Teknolojiler
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+*“Gerçekten öğrenmek ve ilerlemek için buradayım.”*
